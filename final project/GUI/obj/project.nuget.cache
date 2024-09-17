@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "XqbNVYBWY0aon7aEcTkkXb0Lkc2D3qaW56UvLeDVdeV9ut0JdfuQ6Gpd8o5BxoE1IPLRHL0AyotkWtTg/DKqbA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\User\\Videos\\דיסקונקי\\דבורי פייר\\C#\\תרגול\\final project\\GUI\\GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\6.0.1\\newtonsoft.json.6.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 6.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
